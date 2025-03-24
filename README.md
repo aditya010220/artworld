@@ -125,8 +125,8 @@ This project is licensed under the MIT License. You are free to use, modify, and
 For inquiries, suggestions, or collaborations, feel free to reach out to the project maintainer:
 
 - **Email**: info@artistryhub.com
-- **GitLab Profile**: [Your GitLab Profile Link]
-- **Social Media**: Include links to relevant professional profiles, such as LinkedIn or Instagram.
+- **GitLab Profile**:https://gitlab.com/code-forges/artistry-hub.
+- **Group Project**:I worked closely with my teammate, who is also a developer, to design and develop this project, ensuring seamless collaboration and effective implementation.
 
 ---
 
